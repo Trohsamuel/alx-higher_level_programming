@@ -1,3 +1,2 @@
 #!/usr/bin/python3
-import py_print
-
+import calling_script
